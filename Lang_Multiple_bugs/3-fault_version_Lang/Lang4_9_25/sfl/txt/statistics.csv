@@ -1,0 +1,16 @@
+formula,metric_name,metric_value
+tarantula,density,0.29049331137267503
+tarantula,uniqueness,0.22140762463343108
+tarantula,coverage,0.04398826979472141
+ochiai,density,0.29049331137267503
+ochiai,uniqueness,0.22140762463343108
+ochiai,coverage,0.04398826979472141
+opt,density,0.29049331137267503
+opt,uniqueness,0.22140762463343108
+opt,coverage,0.04398826979472141
+barinel,density,0.29049331137267503
+barinel,uniqueness,0.22140762463343108
+barinel,coverage,0.04398826979472141
+dstar,density,0.29049331137267503
+dstar,uniqueness,0.22140762463343108
+dstar,coverage,0.04398826979472141
