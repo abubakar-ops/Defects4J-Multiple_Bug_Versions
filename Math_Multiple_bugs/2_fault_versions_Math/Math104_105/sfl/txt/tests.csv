@@ -1,0 +1,10 @@
+name,outcome,runtime,stacktrace
+org.apache.commons.math.stat.regression.SimpleRegressionTest#testClear,PASS,293804704,
+org.apache.commons.math.stat.regression.SimpleRegressionTest#testCorr,PASS,59016969,
+org.apache.commons.math.stat.regression.SimpleRegressionTest#testNaNs,PASS,54639390,
+org.apache.commons.math.stat.regression.SimpleRegressionTest#testPerfect,PASS,57189564,
+org.apache.commons.math.stat.regression.SimpleRegressionTest#testSSENonNegative,PASS,40183400,
+org.apache.commons.math.stat.regression.SimpleRegressionTest#testPerfectNegative,PASS,49495938,
+org.apache.commons.math.stat.regression.SimpleRegressionTest#testNorris,PASS,38597543,
+org.apache.commons.math.stat.regression.SimpleRegressionTest#testInference,PASS,60834511,
+org.apache.commons.math.stat.regression.SimpleRegressionTest#testRandom,PASS,44234400,
