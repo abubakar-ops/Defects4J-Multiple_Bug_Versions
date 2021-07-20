@@ -1,9 +1,0 @@
-name,outcome,runtime,stacktrace
-org.apache.commons.math.stat.FrequencyTest#testEmptyTable,PASS,408657027,
-org.apache.commons.math.stat.FrequencyTest#testAdd,PASS,129773423,
-org.apache.commons.math.stat.FrequencyTest#testPcts,PASS,68669025,
-org.apache.commons.math.stat.FrequencyTest#testToString,PASS,93630611,
-org.apache.commons.math.stat.FrequencyTest#testAddNonComparable,PASS,89979464,
-org.apache.commons.math.stat.FrequencyTest#testIntegerValues,PASS,55581285,
-org.apache.commons.math.stat.FrequencyTest#testCounts,PASS,50607404,
-org.apache.commons.math.stat.FrequencyTest#testSerial,PASS,269847936,
